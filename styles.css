@@ -3,5 +3,5 @@
 }
 
 .osano-root {
-  background-image: "osano-logo.png";
+  background-image: url("osano-logo.png");
 }
